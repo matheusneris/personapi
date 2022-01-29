@@ -1,0 +1,17 @@
+[33mcommit 23bfa9893632b8a07e253f5dce9387b2887238cd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: matheusneris <matheusneris7@gmail.com>
+Date:   Sat Jan 15 16:49:13 2022 -0300
+
+    Desenvolvido operacao de criar pessoa
+
+[33mcommit 1f254b441e1f28f0d45a821171bb9369f5a49895[m[33m ([m[1;31mmaster/master[m[33m)[m
+Author: matheusneris <matheusneris7@gmail.com>
+Date:   Tue Jan 11 21:27:27 2022 -0300
+
+    Arquivo de configuracao java.runtime.version=16
+
+[33mcommit 8d66702711f1b94cc0477da995ac40a564cb48ad[m[33m ([m[1;31mmain/master[m[33m)[m
+Author: matheusneris <matheusneris7@gmail.com>
+Date:   Tue Jan 11 21:07:55 2022 -0300
+
+    Primeiro deploy
