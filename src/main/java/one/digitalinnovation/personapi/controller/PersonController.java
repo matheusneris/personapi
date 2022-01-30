@@ -22,7 +22,7 @@ public class PersonController {
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public MessageResponseDTO createPearson(@RequestBody @Valid PersonDTO personDTO){
-        return personService.createPearson(personDTO);
+        return personService.createPerson(personDTO);
     }
 
     @GetMapping
